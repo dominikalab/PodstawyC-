@@ -16,10 +16,26 @@ namespace Zadanie_05._7
             Console.Write("podaj liczbe: ");
             n = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 1; i<= n; i++)
+            int x = 0;
+
+            for (int i = 2; i<= n; i++)
             {
-                if (n % i == 0) ;
+                for (int j = 2; j<i; j++)
+                {
+                    if (i%j == 0)
+                    {
+                        x += 1;
+                    }
+
+                }
+                if (x == 0)
+                {
+                    Console.Write($"{i}, ");
+                }
+                x = 0;
             }
+
+            Console.ReadKey(true);
         }
     }
 }
