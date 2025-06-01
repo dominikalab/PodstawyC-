@@ -45,6 +45,8 @@ namespace Zadanie_3._6
                 Console.Write($"{el} ");
             }
 
+           
+
             Console.ReadKey(true);
 
         }
