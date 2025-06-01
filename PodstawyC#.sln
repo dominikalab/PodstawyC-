@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 1", "Zadanie 1\Zadanie 1.csproj", "{1FF59C67-B875-40EE-8FBF-7A84D86BC5AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 1.2", "Zadanie 1\Zadanie 1.2.csproj", "{1FF59C67-B875-40EE-8FBF-7A84D86BC5AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 2", "Zadanie 2\Zadanie 2.csproj", "{16E27ECB-2DF1-400B-A524-7F535A330CC2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 2.2", "Zadanie 2\Zadanie 2.2.csproj", "{16E27ECB-2DF1-400B-A524-7F535A330CC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 3", "Zadanie 3\Zadanie 3.csproj", "{D1981721-766F-4090-81F0-CD6E189E484C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 3.2", "Zadanie 3\Zadanie 3.2.csproj", "{D1981721-766F-4090-81F0-CD6E189E484C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 4.1", "Zadanie 4.1\Zadanie 4.1.csproj", "{DBC0912E-9AE2-415D-BD4E-08AFA157C194}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 4.2", "Zadanie 4.1\Zadanie 4.2.csproj", "{DBC0912E-9AE2-415D-BD4E-08AFA157C194}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 5.1", "Zadanie 5.1\Zadanie 5.1.csproj", "{BB0565B4-2AE2-404B-843F-3C2F87647BE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 5.2", "Zadanie 5.1\Zadanie 5.2.csproj", "{BB0565B4-2AE2-404B-843F-3C2F87647BE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 6.1", "Zadanie 6.1\Zadanie 6.1.csproj", "{FA2F22E4-229B-4595-B3BB-95C8205DF878}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 6.2", "Zadanie 6.1\Zadanie 6.2.csproj", "{FA2F22E4-229B-4595-B3BB-95C8205DF878}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 7.1", "Zadanie 7.1\Zadanie 7.1.csproj", "{E61CA1F9-7D79-4F58-99B0-527938294502}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 7.2", "Zadanie 7.1\Zadanie 7.2.csproj", "{E61CA1F9-7D79-4F58-99B0-527938294502}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 8.1", "Zadanie 8.1\Zadanie 8.1.csproj", "{766208F3-8168-46F1-8082-B2B0E8A7BB05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 8.2", "Zadanie 8.1\Zadanie 8.2.csproj", "{766208F3-8168-46F1-8082-B2B0E8A7BB05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 9.1", "Zadanie 9.1\Zadanie 9.1.csproj", "{762ADF4A-C320-4081-ABFC-A840472D6385}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 9.2", "Zadanie 9.1\Zadanie 9.2.csproj", "{762ADF4A-C320-4081-ABFC-A840472D6385}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 05.1", "Zadanie 05.1\Zadanie 05.1.csproj", "{57854149-3861-475A-ABB9-BDC694E27550}"
 EndProject
